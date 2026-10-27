@@ -1,4 +1,4 @@
- Hi, I'm Sambhav 👋
+** Hi, I'm Sambhav 👋
 
 GenAI Engineer  — I build LLM-powered applications: RAG pipelines, agentic workflows, and structured-extraction systems with built-in evaluation.
 
