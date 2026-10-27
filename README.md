@@ -8,7 +8,7 @@
 |---|---|---|
 | [**ai-document-risk-analyzer**](https://github.com/SambhavYatendraBhardwaj/ai-document-risk-analyzer) | RAG system that audits contracts, extracts risks into validated schemas, and verifies every claim against the source text to catch hallucinations | LangChain · ChromaDB · Gemini · Pydantic v2 · FastAPI · Streamlit |
 | [**vendor-sql-agent**](https://github.com/SambhavYatendraBhardwaj/vendor-sql-agent) | LangGraph agent that turns business questions into SQL, runs them, self-corrects on errors, and synthesizes the answer | LangGraph · SQLite · Python |
-| [**conversational-hybrid-rag**](https://github.com/SambhavYatendraBhardwaj/conversational-hybrid-rag) | REPLACE: one line on what it does (e.g. keyword + vector retrieval, conversation memory) | REPLACE: your actual stack |
+| [**conversational-hybrid-rag**](https://github.com/SambhavYatendraBhardwaj/conversational-hybrid-rag) | Hybrid retrieval pairing dense search with BM25 lexical lookup and cross-encoder reranking, reducing prompt tokens by 47.8%. | LangChain · ChromaDB · BM25 · Cross-Encoder · FastAPI |
 
  Tech I work with
 
