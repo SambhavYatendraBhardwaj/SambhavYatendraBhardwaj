@@ -22,7 +22,5 @@
 Making LLM apps that are **verifiable**, not just impressive in a demo, so I add evaluation and grounding checks to my pipelines.
 
 ## Reach me
-email:sambhavbhardwaj029@gmail.com
-linkedin:https://www.linkedin.com/in/sambhav-yatendra-bhardwaj-021403303/
 
-📧 REPLACE_WITH_EMAIL · 💼 [LinkedIn](REPLACE_WITH_LINK)
+📧 sambhavbhardwaj029@gmail.com · 💼 https://www.linkedin.com/in/sambhav-yatendra-bhardwaj-021403303/
